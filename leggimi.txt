@@ -1,0 +1,16 @@
+Estrai tutti file in una cartella locale:
+
+Primo passo: aprire come amministratore file installa_dipendenze e attendere completamento.
+
+Secondo passo: aprire file dudu_nano per avviare bot necessario che tutti dipendenze vengono riconosciuti dal nodejs, una volta aperto verrano creati file dess.txt e log.txt.
+
+Terzo passo: aprire file dess.txt e aggiungere account uno per riga in formato initdomain:dess ad es 
+
+it:nfonfoiuewnfoiwe325253nrofofs
+es:fn3923bnifsniw29f2f32f32eAesd e cosi via...
+
+Una volta aggiunto account, puoi apre bot da file dudu_nano oppure aprendo cmd della directory e inserendo commando - "node dudunano.js" invio.
+
+In archivio trovi un video con le istruzioni d'uso completo.
+
+Saluti da palianitsia & bessmertnyy

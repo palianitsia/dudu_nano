@@ -1,0 +1,28 @@
+{
+  "name": "dudunano-bot",
+  "version": "1.0.0",
+  "description": "Bot per la gestione delle puntate su Bidoo con Telegram",
+  "main": "dudunano.js",
+  "bin": {
+    "dudunano": "dudunano.js"
+  },
+  "pkg": {
+    "targets": ["node18-win-x64"],
+    "outputPath": "dist",
+    "assets": ["dudunode.ico"]
+  },
+  "scripts": {
+    "start": "node dudunano.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cli-progress": "^3.9.0",
+    "dotenv": "^16.3.1",
+    "fs": "latest",
+    "readline": "latest"
+  },
+  "icon": "dudunode.ico",
+  "author": "palianitsia",
+  "license": "MIT"
+}
